@@ -1,0 +1,13 @@
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.exe
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.deps.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.dev.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csprojAssemblyReference.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfoInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfo.cs
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.genruntimeconfig.cache
